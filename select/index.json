@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "JINGO JUNGLE",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2025-12-03T15:59:25.245395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_JINGO_JUNGLE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/02_JINGO_JUNGLE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/03_JINGO_JUNGLE_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/04_JINGO_JUNGLE_Selphius.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE -HBB Remix-",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/05_JINGO_JUNGLE_-HBB_Remix-_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jingo Jungle (From \"Saga of Tanya the Evil\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/06_Jingo_Jungle_(From__Saga_of_Tanya_the_Evil_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE (TV Size)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/07_JINGO_JUNGLE_(TV_Size)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/08_JINGO_JUNGLE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jingo Jungle (From \"Saga of Tanya The Evil\") [REMIX]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_Jingo_Jungle_(From__Saga_of_Tanya_The_Evil_)_[REMIX]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jingo Jungle (From \"Saga of Tanya the Evil\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Jingo_Jungle_(From__Saga_of_Tanya_the_Evil_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/11_JINGO_JUNGLE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/12_JINGO_JUNGLE_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jingo Jungle",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/13_Jingo_Jungle_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jingo Jungle (from “Saga of Tanya the Evil”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/14_Jingo_Jungle_(from_“Saga_of_Tanya_the_Evil”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jingo Jungle (Saga of Tanya the Evil)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/15_Jingo_Jungle_(Saga_of_Tanya_the_Evil)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "JINGO JUNGLE (\"Saga of Tanya the Evil\" Opening Theme)",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/16_JINGO_JUNGLE_(_Saga_of_Tanya_the_Evil__Opening_Theme)_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JINGO JUNGLE",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_JINGO_JUNGLE_MYTH_&_ROID.txt"
+    }
+  ]
+}
